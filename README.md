@@ -1,5 +1,9 @@
 FOOTBALL ANALYSIS - TEAM & PLAYER SKILL TRACKER
+
+
 https://github.com/user-attachments/assets/186fb763-caea-46a0-ad10-7499ca4eef07
+
+
 
 I worked on a Football Analysis System that focuses on advanced computer vision techniques to analyze football match videos. The goal is to track players and the ball, differentiate teams, detect key positions on the pitch, and represent all this in a tactical radar view for spatial analysis. This is useful for coaches, analysts, and fans to better understand match dynamics.
 
